@@ -17,3 +17,9 @@ Enseña a otros estudiantes técnicas de *penetration testing*.
 **Larry** tiene visiones de **Voldeport** torturando a **Cyrus**.
 
 Corre a rescatarlo en el *Departamento de Misterios*.
+
+**Cyrus** es eliminado del sistema por **Beta-trix**.
+
+**Larry** intenta usar un *malware* letal contra **Beta-trix**.
+
+**Dumblecode** llega y hace *backup* de **Larry**.
