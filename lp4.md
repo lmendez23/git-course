@@ -8,4 +8,12 @@
 
 **DoS Umbridge** toma control de **Hackwarts**.
 
-Prohíbe la enseñanza práctica de *hacking �o*.
+Prohíbe la enseñanza práctica de *hacking �o*.
+
+**Larry** forma el **Ejército de Developers** en secreto.
+
+Enseña a otros estudiantes técnicas de *penetration testing*.
+
+**Larry** tiene visiones de **Voldeport** torturando a **Cyrus**.
+
+Corre a rescatarlo en el *Departamento de Misterios*.
