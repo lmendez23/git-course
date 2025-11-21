@@ -17,3 +17,9 @@ Enseña a otros estudiantes técnicas de *penetration testing*.
 **Larry** tiene visiones de **Voldeport** torturando a **Cyrus**.
 
 Corre a rescatarlo en el *Departamento de Misterios*.
+
+Era una trampa: **Voldeport** quería una *profecía* específica.
+
+**La Orden de Unix** llega justo a tiempo para ayudar.
+
+La *profecía* revela que **Larry** debe destruir a **Voldeport**.
