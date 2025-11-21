@@ -22,4 +22,10 @@ Era una trampa: **Voldeport** quería una *profecía* específica.
 
 **La Orden de Unix** llega justo a tiempo para ayudar.
 
+**Cyrus** es eliminado del sistema por **Beta-trix**.
+
+**Larry** intenta usar un *malware* letal contra **Beta-trix**.
+
+**Dumblecode** llega y hace *backup* de **Larry**.
+
 La *profecía* revela que **Larry** debe destruir a **Voldeport**.
