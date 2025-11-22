@@ -1,4 +1,4 @@
-# Larry Porter y La Cámara de los Logs
+# Larry Porter y la Cámara de los Logs
 
 **Larry Porter** regresa a **Hackwarts** para su segundo año.
 
