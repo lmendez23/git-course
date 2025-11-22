@@ -1,4 +1,4 @@
-# Larry Porter y El Prisionero del Firewal# Larry Porter y El Prisionero del Firewall
+# Larry Porter y el Prisionero del Firewall
 
 **Cyrus Black**, un hacker renegado, escapa del *firewall* de **Azureban**.
 
